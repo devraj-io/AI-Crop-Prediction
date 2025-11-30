@@ -7,7 +7,7 @@ Let’s begin our coding quest! Below is the complete `README.md` file for the "
 
 # Intelligent Crop Recommendation Portal 🌾
 
-This repository hosts the Intelligent Crop Recommendation Portal, a machine learning-powered web application designed to assist farmers and agricultural specialists in selecting the best crops and fertilizers based on soil characteristics and environmental parameters. Developed by Aman Attar, this project leverages nutrient data and predictive models to make insightful agricultural recommendations.
+This repository hosts the Intelligent Crop Recommendation Portal, a machine learning-powered web application designed to assist farmers and agricultural specialists in selecting the best crops and fertilizers based on soil characteristics and environmental parameters. Developed by Dev Raj, this project leverages nutrient data and predictive models to make insightful agricultural recommendations.
 
 ---
 
@@ -108,4 +108,5 @@ Usage
 Enjoy farming smarter! 🌱✨
 
 * * *
+
 
