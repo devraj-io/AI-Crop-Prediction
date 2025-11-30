@@ -65,6 +65,7 @@ Follow these steps to set up and run the application locally.
 
 1. **Clone the Repository:**
    ```bash
+   git clone https://github.com/devraj-io/AI-Crop-Prediction.git
     ```
 
 2.  **Install Dependencies:**  
@@ -108,5 +109,6 @@ Usage
 Enjoy farming smarter! 🌱✨
 
 * * *
+
 
 
