@@ -65,8 +65,6 @@ Follow these steps to set up and run the application locally.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/amanattar/crop
-   cd crop
     ```
 
 2.  **Install Dependencies:**  
@@ -110,3 +108,4 @@ Usage
 Enjoy farming smarter! 🌱✨
 
 * * *
+
